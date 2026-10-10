@@ -1,0 +1,8 @@
+Oct 07 09:12:01 server sshd[1021]: Failed password for root from 203.0.113.45 port 52114 ssh2
+Oct 07 09:12:04 server sshd[1021]: Failed password for root from 203.0.113.45 port 52116 ssh2
+Oct 07 09:12:09 server sshd[1023]: Failed password for admin from 203.0.113.45 port 52120 ssh2
+Oct 07 09:15:33 server sshd[1030]: Accepted password for zack from 192.0.2.10 port 40222 ssh2
+Oct 07 09:20:11 server sshd[1044]: Failed password for guest from 198.51.100.7 port 33410 ssh2
+Oct 07 09:20:15 server sshd[1044]: Failed password for guest from 198.51.100.7 port 33412 ssh2
+Oct 07 09:41:52 server sshd[1061]: Failed password for zack from 192.0.2.10 port 40310 ssh2
+Oct 07 10:02:18 server sshd[1075]: Failed password for oracle from 203.0.113.99 port 60001 ssh2
